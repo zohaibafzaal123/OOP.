@@ -1,0 +1,15 @@
+F:\OOP PDs\Lab 4\Ocean\Ocean\bin\Debug\net6.0\Ocean.exe
+F:\OOP PDs\Lab 4\Ocean\Ocean\bin\Debug\net6.0\Ocean.deps.json
+F:\OOP PDs\Lab 4\Ocean\Ocean\bin\Debug\net6.0\Ocean.runtimeconfig.json
+F:\OOP PDs\Lab 4\Ocean\Ocean\bin\Debug\net6.0\Ocean.dll
+F:\OOP PDs\Lab 4\Ocean\Ocean\bin\Debug\net6.0\Ocean.pdb
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.csproj.AssemblyReference.cache
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.AssemblyInfoInputs.cache
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.AssemblyInfo.cs
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.csproj.CoreCompileInputs.cache
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.dll
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\refint\Ocean.dll
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.pdb
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\Ocean.genruntimeconfig.cache
+F:\OOP PDs\Lab 4\Ocean\Ocean\obj\Debug\net6.0\ref\Ocean.dll
