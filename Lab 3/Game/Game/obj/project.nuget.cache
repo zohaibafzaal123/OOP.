@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HE4gaN+moYoAUVIbsTWUqzTIfI2BlmhXoXYxnevU/X5l+7zF1nZ5ySOalZPEoww1lG3KrB1s44TtaKKvMT6ng==",
+  "success": true,
+  "projectFilePath": "F:\\OOP PDs\\Lab 3\\Game\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nkjm\\.nuget\\packages\\ezinput\\1.3.2\\ezinput.1.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
