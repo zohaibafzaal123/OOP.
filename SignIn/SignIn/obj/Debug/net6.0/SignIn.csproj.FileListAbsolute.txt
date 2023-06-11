@@ -1,0 +1,15 @@
+F:\OOP PDs\Lab 4\SignIn\SignIn\bin\Debug\net6.0\SignIn.exe
+F:\OOP PDs\Lab 4\SignIn\SignIn\bin\Debug\net6.0\SignIn.deps.json
+F:\OOP PDs\Lab 4\SignIn\SignIn\bin\Debug\net6.0\SignIn.runtimeconfig.json
+F:\OOP PDs\Lab 4\SignIn\SignIn\bin\Debug\net6.0\SignIn.dll
+F:\OOP PDs\Lab 4\SignIn\SignIn\bin\Debug\net6.0\SignIn.pdb
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.csproj.AssemblyReference.cache
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.AssemblyInfoInputs.cache
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.AssemblyInfo.cs
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.csproj.CoreCompileInputs.cache
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.dll
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\refint\SignIn.dll
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.pdb
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\SignIn.genruntimeconfig.cache
+F:\OOP PDs\Lab 4\SignIn\SignIn\obj\Debug\net6.0\ref\SignIn.dll
