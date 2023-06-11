@@ -1,0 +1,17 @@
+F:\OOP PDs\Lab 2\Game\Game\bin\Debug\net6.0\Game.exe
+F:\OOP PDs\Lab 2\Game\Game\bin\Debug\net6.0\Game.deps.json
+F:\OOP PDs\Lab 2\Game\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+F:\OOP PDs\Lab 2\Game\Game\bin\Debug\net6.0\Game.dll
+F:\OOP PDs\Lab 2\Game\Game\bin\Debug\net6.0\Game.pdb
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.dll
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\refint\Game.dll
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.pdb
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\ref\Game.dll
+F:\OOP PDs\Lab 2\Game\Game\bin\Debug\net6.0\EZInput.dll
+F:\OOP PDs\Lab 2\Game\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
