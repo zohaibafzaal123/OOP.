@@ -1,0 +1,7 @@
+D:\oop task\p1\p1\bin\Debug\p1.exe.config
+D:\oop task\p1\p1\bin\Debug\p1.exe
+D:\oop task\p1\p1\bin\Debug\p1.pdb
+D:\oop task\p1\p1\obj\Debug\p1.csproj.AssemblyReference.cache
+D:\oop task\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
+D:\oop task\p1\p1\obj\Debug\p1.exe
+D:\oop task\p1\p1\obj\Debug\p1.pdb
